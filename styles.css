@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-image: url('Orange.png');
+}
+.container {
+    width: 400px;
+    margin:150px;
+    height:fit-content;
+    text-align: center;
+    background-color:#745971;
+    padding: 10px;
+    border-radius: 5px;
+    color:white;
+}
+.container-fluid{
+    width: 400px;
+    margin:150px;
+    height:fit-content;
+    text-align: center;
+    background-color: #745971;
+    padding: 50px;
+    border-radius: 5px;
+    color:white;
+}
+#fetch-button{
+    color:rgb(246, 253, 250);
+    background-color: rgb(85, 76, 206);
+    border:none;
+    border-radius:10px;
+    width: fit-content; 
+    height:35px;
+    font-weight: bold;
+}
+#fetch-button:hover{
+    background-color:rgb(9, 29, 85);
+}
+#locationGet{
+    width:fit-content;
+    height:40px;
+}
