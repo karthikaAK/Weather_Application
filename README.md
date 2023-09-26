@@ -9,5 +9,5 @@ This is a simple weather application that allows users to search for the current
 4. Upon clicking the button, you'ill be redirected to the results page, displaying the current temperature, humidity, and weather description for the entered location.
 
 #API key
---> To fect weather data, you need to obtain an API key from OpenWeatherMap.
+--> To fetch weather data, you need to obtain an API key from OpenWeatherMap.
 Built with HTML,CSS and JavaScript
